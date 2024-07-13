@@ -58,18 +58,9 @@ def age_calculator():
             print('Selection Invalid..!')
             break
     return
-    
-         
-    
 
 
-# In[ ]:
 
-
-age_calculator()
-
-
-# In[ ]:
 
 
 
