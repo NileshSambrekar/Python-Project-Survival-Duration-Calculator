@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 def age_calculator():
     
     my_age = int(input('Please Enter your Age:'))
